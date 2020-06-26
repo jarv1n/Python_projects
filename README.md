@@ -1,2 +1,4 @@
 # Python_projects
-small projects for a beginner programmer
+Here are some small projects for a beginner programmer
+
+
